@@ -16,12 +16,12 @@
 </div>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=bash,docker,nodejs,js,linux,kubernetes,php,powershell" />
+    <img src="https://skillicons.dev/icons?i=bash,py,java,html,js,php,powershell" />
   </a>
 </p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,html,py,vim,vscode,latex,nginx,wordpress,c" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,vim,latex,wordpress,linux" />
   </a>
 </p><br>
 
