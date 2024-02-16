@@ -23,13 +23,13 @@
 
 <p align="center" style="pointer-events: none;">
     <a href="#" disabled>
-        <img src="https://skillicons.dev/icons?i=bash,py,java,html,js,php,powershell" style="pointer-events: none;">
+        <img src="https://skillicons.dev/icons?i=bash,py,java,php,powershell" style="pointer-events: none;">
     </a>
 </p>
 
 <p align="center" style="pointer-events: none;">
     <a href="#" disabled>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,vim,latex,wordpress,linux" style="pointer-events: none;">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,vim,latex,wordpress,linux" style="pointer-events: none;">
     </a>
 </p>
 <br>
