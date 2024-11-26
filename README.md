@@ -13,7 +13,7 @@
     </a>
 </div>
 
-<p align="center" style="pointer-events: none;">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Security Analyst<br>📜 EJPTv2<br></p>
+<p align="center" style="pointer-events: none;">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Security Analyst<br>📜 EJPTv2<br>📜 CEH<br></p>
 
 <div id="centro" align="center" style="pointer-events: none;">
     <a href="#" disabled>
