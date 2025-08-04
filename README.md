@@ -13,7 +13,7 @@
     </a>
 </div>
 
-<p align="center" style="pointer-events: none;">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Ethical Hacker<br>🔎 Security Analyst<br>📜 EJPTv2<br>📜 CEH<br></p>
+<p align="center" style="pointer-events: none;">🛡️ Cybersecurity<br>🔴 Red Team<br>👨‍💻 Exploit Developer<br>📜 EJPTv2<br>📜 CEH<br></p>
 
 <div id="centro" align="center" style="pointer-events: none;">
     <a href="#" disabled>
@@ -23,16 +23,9 @@
 
 <p align="center" style="pointer-events: none;">
     <a href="#" disabled>
-        <img src="https://skillicons.dev/icons?i=bash,py,java,php,powershell" style="pointer-events: none;">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,bash" style="pointer-events: none;">
     </a>
 </p>
-
-<p align="center" style="pointer-events: none;">
-    <a href="#" disabled>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,vim,latex,wordpress,linux" style="pointer-events: none;">
-    </a>
-</p>
-<br>
 
 <div align="center" style="pointer-events: none;">
     <a href="#" disabled>
