@@ -27,13 +27,6 @@
     </a>
 </p>
 
-<div align="center" style="pointer-events: none;">
-    <a href="#" disabled>
-        <p align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ub1cu0&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ub1cu0" style="pointer-events: none;">
-        </p>
-    </a>
-
  <a href="#" disabled>
         <p align="center">
             <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="pointer-events: none;">
